@@ -1,0 +1,5 @@
+(setq next-line-add-newlines t)
+(setq-default truncate-lines nil)
+(setq truncate-partial-width-windows nil)
+(setq-default indent-tabs-mode nil)
+(setq-default tab-width 8)

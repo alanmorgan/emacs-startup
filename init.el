@@ -9,10 +9,9 @@
 (load "doomsday.el")
 
 (load "gtags.el")
+(load "gtags-mode-setup.el")
 
 (load "misc-configuration.el")
-
-(load "gtags-mode-setup.el")
 
 (load "c-mode-setup.el")
 
